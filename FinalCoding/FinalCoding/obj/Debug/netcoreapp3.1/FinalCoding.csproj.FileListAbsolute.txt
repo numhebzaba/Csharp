@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\bin\Debug\netcoreapp3.1\FinalCoding.exe
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\bin\Debug\netcoreapp3.1\FinalCoding.deps.json
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\bin\Debug\netcoreapp3.1\FinalCoding.runtimeconfig.json
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\bin\Debug\netcoreapp3.1\FinalCoding.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\bin\Debug\netcoreapp3.1\FinalCoding.dll
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\bin\Debug\netcoreapp3.1\FinalCoding.pdb
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\obj\Debug\netcoreapp3.1\FinalCoding.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\obj\Debug\netcoreapp3.1\FinalCoding.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\obj\Debug\netcoreapp3.1\FinalCoding.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\obj\Debug\netcoreapp3.1\FinalCoding.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\obj\Debug\netcoreapp3.1\FinalCoding.dll
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\obj\Debug\netcoreapp3.1\FinalCoding.pdb
+C:\Users\LEGION\source\repos\FinalCoding\FinalCoding\obj\Debug\netcoreapp3.1\FinalCoding.genruntimeconfig.cache

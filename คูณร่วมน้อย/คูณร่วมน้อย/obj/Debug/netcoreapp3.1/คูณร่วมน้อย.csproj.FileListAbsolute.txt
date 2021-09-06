@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\bin\Debug\netcoreapp3.1\คูณร่วมน้อย.exe
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\bin\Debug\netcoreapp3.1\คูณร่วมน้อย.deps.json
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\bin\Debug\netcoreapp3.1\คูณร่วมน้อย.runtimeconfig.json
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\bin\Debug\netcoreapp3.1\คูณร่วมน้อย.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\bin\Debug\netcoreapp3.1\คูณร่วมน้อย.dll
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\bin\Debug\netcoreapp3.1\คูณร่วมน้อย.pdb
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\obj\Debug\netcoreapp3.1\คูณร่วมน้อย.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\obj\Debug\netcoreapp3.1\คูณร่วมน้อย.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\obj\Debug\netcoreapp3.1\คูณร่วมน้อย.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\obj\Debug\netcoreapp3.1\คูณร่วมน้อย.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\obj\Debug\netcoreapp3.1\คูณร่วมน้อย.dll
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\obj\Debug\netcoreapp3.1\คูณร่วมน้อย.pdb
+C:\Users\LEGION\source\repos\คูณร่วมน้อย\คูณร่วมน้อย\obj\Debug\netcoreapp3.1\คูณร่วมน้อย.genruntimeconfig.cache

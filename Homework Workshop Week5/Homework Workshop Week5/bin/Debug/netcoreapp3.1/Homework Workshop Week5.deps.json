@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework Workshop Week5/1.0.0": {
+        "runtime": {
+          "Homework Workshop Week5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework Workshop Week5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

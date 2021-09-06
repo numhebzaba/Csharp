@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\bin\Debug\netcoreapp3.1\fixcodeSession.exe
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\bin\Debug\netcoreapp3.1\fixcodeSession.deps.json
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\bin\Debug\netcoreapp3.1\fixcodeSession.runtimeconfig.json
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\bin\Debug\netcoreapp3.1\fixcodeSession.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\bin\Debug\netcoreapp3.1\fixcodeSession.dll
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\bin\Debug\netcoreapp3.1\fixcodeSession.pdb
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\obj\Debug\netcoreapp3.1\fixcodeSession.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\obj\Debug\netcoreapp3.1\fixcodeSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\obj\Debug\netcoreapp3.1\fixcodeSession.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\obj\Debug\netcoreapp3.1\fixcodeSession.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\obj\Debug\netcoreapp3.1\fixcodeSession.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\obj\Debug\netcoreapp3.1\fixcodeSession.dll
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\obj\Debug\netcoreapp3.1\fixcodeSession.pdb
+C:\Users\LEGION\source\repos\fixcodeSession\fixcodeSession\obj\Debug\netcoreapp3.1\fixcodeSession.genruntimeconfig.cache

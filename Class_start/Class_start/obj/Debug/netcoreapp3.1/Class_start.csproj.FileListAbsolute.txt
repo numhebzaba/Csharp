@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\Class_start\Class_start\bin\Debug\netcoreapp3.1\Class_start.exe
+C:\Users\LEGION\source\repos\Class_start\Class_start\bin\Debug\netcoreapp3.1\Class_start.deps.json
+C:\Users\LEGION\source\repos\Class_start\Class_start\bin\Debug\netcoreapp3.1\Class_start.runtimeconfig.json
+C:\Users\LEGION\source\repos\Class_start\Class_start\bin\Debug\netcoreapp3.1\Class_start.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Class_start\Class_start\bin\Debug\netcoreapp3.1\Class_start.dll
+C:\Users\LEGION\source\repos\Class_start\Class_start\bin\Debug\netcoreapp3.1\Class_start.pdb
+C:\Users\LEGION\source\repos\Class_start\Class_start\obj\Debug\netcoreapp3.1\Class_start.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Class_start\Class_start\obj\Debug\netcoreapp3.1\Class_start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Class_start\Class_start\obj\Debug\netcoreapp3.1\Class_start.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Class_start\Class_start\obj\Debug\netcoreapp3.1\Class_start.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Class_start\Class_start\obj\Debug\netcoreapp3.1\Class_start.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Class_start\Class_start\obj\Debug\netcoreapp3.1\Class_start.dll
+C:\Users\LEGION\source\repos\Class_start\Class_start\obj\Debug\netcoreapp3.1\Class_start.pdb
+C:\Users\LEGION\source\repos\Class_start\Class_start\obj\Debug\netcoreapp3.1\Class_start.genruntimeconfig.cache

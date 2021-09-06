@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\week9\week9\obj\Debug\netcoreapp3.1\week9.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\week9\week9\obj\Debug\netcoreapp3.1\week9.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\week9\week9\obj\Debug\netcoreapp3.1\week9.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\week9\week9\obj\Debug\netcoreapp3.1\week9.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\week9\week9\bin\Debug\netcoreapp3.1\week9.exe
+C:\Users\LEGION\source\repos\week9\week9\bin\Debug\netcoreapp3.1\week9.deps.json
+C:\Users\LEGION\source\repos\week9\week9\bin\Debug\netcoreapp3.1\week9.runtimeconfig.json
+C:\Users\LEGION\source\repos\week9\week9\bin\Debug\netcoreapp3.1\week9.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\week9\week9\bin\Debug\netcoreapp3.1\week9.dll
+C:\Users\LEGION\source\repos\week9\week9\bin\Debug\netcoreapp3.1\week9.pdb
+C:\Users\LEGION\source\repos\week9\week9\obj\Debug\netcoreapp3.1\week9.dll
+C:\Users\LEGION\source\repos\week9\week9\obj\Debug\netcoreapp3.1\week9.pdb
+C:\Users\LEGION\source\repos\week9\week9\obj\Debug\netcoreapp3.1\week9.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\bin\Debug\netcoreapp3.1\Workshop week8 method.exe
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\bin\Debug\netcoreapp3.1\Workshop week8 method.deps.json
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\bin\Debug\netcoreapp3.1\Workshop week8 method.runtimeconfig.json
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\bin\Debug\netcoreapp3.1\Workshop week8 method.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\bin\Debug\netcoreapp3.1\Workshop week8 method.dll
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\bin\Debug\netcoreapp3.1\Workshop week8 method.pdb
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\obj\Debug\netcoreapp3.1\Workshop week8 method.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\obj\Debug\netcoreapp3.1\Workshop week8 method.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\obj\Debug\netcoreapp3.1\Workshop week8 method.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\obj\Debug\netcoreapp3.1\Workshop week8 method.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\obj\Debug\netcoreapp3.1\Workshop week8 method.dll
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\obj\Debug\netcoreapp3.1\Workshop week8 method.pdb
+C:\Users\LEGION\source\repos\Workshop week8 method\Workshop week8 method\obj\Debug\netcoreapp3.1\Workshop week8 method.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\bin\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.exe
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\bin\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.deps.json
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\bin\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.runtimeconfig.json
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\bin\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\bin\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.dll
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\bin\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.pdb
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\obj\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\obj\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\obj\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\obj\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\obj\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.dll
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\obj\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.pdb
+C:\Users\LEGION\source\repos\สามเหลี่ยมในตำนาน\สามเหลี่ยมในตำนาน\obj\Debug\netcoreapp3.1\สามเหลี่ยมในตำนาน.genruntimeconfig.cache

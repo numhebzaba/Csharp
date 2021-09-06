@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\bin\Debug\netcoreapp3.1\Homework Workshop Week5.exe
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\bin\Debug\netcoreapp3.1\Homework Workshop Week5.deps.json
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\bin\Debug\netcoreapp3.1\Homework Workshop Week5.runtimeconfig.json
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\bin\Debug\netcoreapp3.1\Homework Workshop Week5.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\bin\Debug\netcoreapp3.1\Homework Workshop Week5.dll
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\bin\Debug\netcoreapp3.1\Homework Workshop Week5.pdb
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\obj\Debug\netcoreapp3.1\Homework Workshop Week5.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\obj\Debug\netcoreapp3.1\Homework Workshop Week5.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\obj\Debug\netcoreapp3.1\Homework Workshop Week5.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\obj\Debug\netcoreapp3.1\Homework Workshop Week5.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\obj\Debug\netcoreapp3.1\Homework Workshop Week5.dll
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\obj\Debug\netcoreapp3.1\Homework Workshop Week5.pdb
+C:\Users\LEGION\source\repos\Homework Workshop Week5\Homework Workshop Week5\obj\Debug\netcoreapp3.1\Homework Workshop Week5.genruntimeconfig.cache

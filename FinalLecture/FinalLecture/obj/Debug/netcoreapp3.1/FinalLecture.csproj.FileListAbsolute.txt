@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\bin\Debug\netcoreapp3.1\FinalLecture.exe
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\bin\Debug\netcoreapp3.1\FinalLecture.deps.json
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\bin\Debug\netcoreapp3.1\FinalLecture.runtimeconfig.json
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\bin\Debug\netcoreapp3.1\FinalLecture.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\bin\Debug\netcoreapp3.1\FinalLecture.dll
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\bin\Debug\netcoreapp3.1\FinalLecture.pdb
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\obj\Debug\netcoreapp3.1\FinalLecture.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\obj\Debug\netcoreapp3.1\FinalLecture.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\obj\Debug\netcoreapp3.1\FinalLecture.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\obj\Debug\netcoreapp3.1\FinalLecture.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\obj\Debug\netcoreapp3.1\FinalLecture.dll
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\obj\Debug\netcoreapp3.1\FinalLecture.pdb
+C:\Users\LEGION\source\repos\FinalLecture\FinalLecture\obj\Debug\netcoreapp3.1\FinalLecture.genruntimeconfig.cache

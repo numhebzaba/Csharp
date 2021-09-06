@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\bin\Debug\netcoreapp3.1\Week6Class.exe
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\bin\Debug\netcoreapp3.1\Week6Class.deps.json
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\bin\Debug\netcoreapp3.1\Week6Class.runtimeconfig.json
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\bin\Debug\netcoreapp3.1\Week6Class.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\bin\Debug\netcoreapp3.1\Week6Class.dll
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\bin\Debug\netcoreapp3.1\Week6Class.pdb
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\obj\Debug\netcoreapp3.1\Week6Class.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\obj\Debug\netcoreapp3.1\Week6Class.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\obj\Debug\netcoreapp3.1\Week6Class.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\obj\Debug\netcoreapp3.1\Week6Class.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\obj\Debug\netcoreapp3.1\Week6Class.dll
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\obj\Debug\netcoreapp3.1\Week6Class.pdb
+C:\Users\LEGION\source\repos\Week6Class\Week6Class\obj\Debug\netcoreapp3.1\Week6Class.genruntimeconfig.cache

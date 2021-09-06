@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\week13\week13\bin\Debug\netcoreapp3.1\week13.exe
+C:\Users\LEGION\source\repos\week13\week13\bin\Debug\netcoreapp3.1\week13.deps.json
+C:\Users\LEGION\source\repos\week13\week13\bin\Debug\netcoreapp3.1\week13.runtimeconfig.json
+C:\Users\LEGION\source\repos\week13\week13\bin\Debug\netcoreapp3.1\week13.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\week13\week13\bin\Debug\netcoreapp3.1\week13.dll
+C:\Users\LEGION\source\repos\week13\week13\bin\Debug\netcoreapp3.1\week13.pdb
+C:\Users\LEGION\source\repos\week13\week13\obj\Debug\netcoreapp3.1\week13.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\week13\week13\obj\Debug\netcoreapp3.1\week13.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\week13\week13\obj\Debug\netcoreapp3.1\week13.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\week13\week13\obj\Debug\netcoreapp3.1\week13.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\week13\week13\obj\Debug\netcoreapp3.1\week13.dll
+C:\Users\LEGION\source\repos\week13\week13\obj\Debug\netcoreapp3.1\week13.pdb
+C:\Users\LEGION\source\repos\week13\week13\obj\Debug\netcoreapp3.1\week13.genruntimeconfig.cache

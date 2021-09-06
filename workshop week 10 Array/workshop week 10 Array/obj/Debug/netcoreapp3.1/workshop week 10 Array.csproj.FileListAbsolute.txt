@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\bin\Debug\netcoreapp3.1\workshop week 10 Array.exe
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\bin\Debug\netcoreapp3.1\workshop week 10 Array.deps.json
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\bin\Debug\netcoreapp3.1\workshop week 10 Array.runtimeconfig.json
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\bin\Debug\netcoreapp3.1\workshop week 10 Array.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\bin\Debug\netcoreapp3.1\workshop week 10 Array.dll
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\bin\Debug\netcoreapp3.1\workshop week 10 Array.pdb
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\obj\Debug\netcoreapp3.1\workshop week 10 Array.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\obj\Debug\netcoreapp3.1\workshop week 10 Array.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\obj\Debug\netcoreapp3.1\workshop week 10 Array.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\obj\Debug\netcoreapp3.1\workshop week 10 Array.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\obj\Debug\netcoreapp3.1\workshop week 10 Array.dll
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\obj\Debug\netcoreapp3.1\workshop week 10 Array.pdb
+C:\Users\LEGION\source\repos\workshop week 10 Array\workshop week 10 Array\obj\Debug\netcoreapp3.1\workshop week 10 Array.genruntimeconfig.cache

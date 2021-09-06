@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\bin\Debug\netcoreapp3.1\homework DNA Replication.exe
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\bin\Debug\netcoreapp3.1\homework DNA Replication.deps.json
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\bin\Debug\netcoreapp3.1\homework DNA Replication.runtimeconfig.json
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\bin\Debug\netcoreapp3.1\homework DNA Replication.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\bin\Debug\netcoreapp3.1\homework DNA Replication.dll
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\bin\Debug\netcoreapp3.1\homework DNA Replication.pdb
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\obj\Debug\netcoreapp3.1\homework DNA Replication.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\obj\Debug\netcoreapp3.1\homework DNA Replication.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\obj\Debug\netcoreapp3.1\homework DNA Replication.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\obj\Debug\netcoreapp3.1\homework DNA Replication.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\obj\Debug\netcoreapp3.1\homework DNA Replication.dll
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\obj\Debug\netcoreapp3.1\homework DNA Replication.pdb
+C:\Users\LEGION\source\repos\homework DNA Replication\homework DNA Replication\obj\Debug\netcoreapp3.1\homework DNA Replication.genruntimeconfig.cache

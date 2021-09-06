@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\bin\Debug\netcoreapp3.1\Homework 5 Array.exe
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\bin\Debug\netcoreapp3.1\Homework 5 Array.deps.json
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\bin\Debug\netcoreapp3.1\Homework 5 Array.runtimeconfig.json
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\bin\Debug\netcoreapp3.1\Homework 5 Array.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\bin\Debug\netcoreapp3.1\Homework 5 Array.dll
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\bin\Debug\netcoreapp3.1\Homework 5 Array.pdb
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\obj\Debug\netcoreapp3.1\Homework 5 Array.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\obj\Debug\netcoreapp3.1\Homework 5 Array.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\obj\Debug\netcoreapp3.1\Homework 5 Array.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\obj\Debug\netcoreapp3.1\Homework 5 Array.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\obj\Debug\netcoreapp3.1\Homework 5 Array.dll
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\obj\Debug\netcoreapp3.1\Homework 5 Array.pdb
+C:\Users\LEGION\source\repos\Homework 5 Array\Homework 5 Array\obj\Debug\netcoreapp3.1\Homework 5 Array.genruntimeconfig.cache

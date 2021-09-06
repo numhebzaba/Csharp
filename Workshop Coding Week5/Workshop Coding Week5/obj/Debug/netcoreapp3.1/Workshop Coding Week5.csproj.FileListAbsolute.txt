@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\bin\Debug\netcoreapp3.1\Workshop Coding Week5.exe
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\bin\Debug\netcoreapp3.1\Workshop Coding Week5.deps.json
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\bin\Debug\netcoreapp3.1\Workshop Coding Week5.runtimeconfig.json
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\bin\Debug\netcoreapp3.1\Workshop Coding Week5.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\bin\Debug\netcoreapp3.1\Workshop Coding Week5.dll
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\bin\Debug\netcoreapp3.1\Workshop Coding Week5.pdb
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\obj\Debug\netcoreapp3.1\Workshop Coding Week5.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\obj\Debug\netcoreapp3.1\Workshop Coding Week5.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\obj\Debug\netcoreapp3.1\Workshop Coding Week5.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\obj\Debug\netcoreapp3.1\Workshop Coding Week5.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\obj\Debug\netcoreapp3.1\Workshop Coding Week5.dll
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\obj\Debug\netcoreapp3.1\Workshop Coding Week5.pdb
+C:\Users\LEGION\source\repos\Workshop Coding Week5\Workshop Coding Week5\obj\Debug\netcoreapp3.1\Workshop Coding Week5.genruntimeconfig.cache

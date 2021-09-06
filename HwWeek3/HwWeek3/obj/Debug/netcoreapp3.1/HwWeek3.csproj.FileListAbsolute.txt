@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\bin\Debug\netcoreapp3.1\HwWeek3.exe
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\bin\Debug\netcoreapp3.1\HwWeek3.deps.json
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\bin\Debug\netcoreapp3.1\HwWeek3.runtimeconfig.json
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\bin\Debug\netcoreapp3.1\HwWeek3.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\bin\Debug\netcoreapp3.1\HwWeek3.dll
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\bin\Debug\netcoreapp3.1\HwWeek3.pdb
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\obj\Debug\netcoreapp3.1\HwWeek3.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\obj\Debug\netcoreapp3.1\HwWeek3.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\obj\Debug\netcoreapp3.1\HwWeek3.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\obj\Debug\netcoreapp3.1\HwWeek3.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\obj\Debug\netcoreapp3.1\HwWeek3.dll
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\obj\Debug\netcoreapp3.1\HwWeek3.pdb
+C:\Users\LEGION\source\repos\HwWeek3\HwWeek3\obj\Debug\netcoreapp3.1\HwWeek3.genruntimeconfig.cache
